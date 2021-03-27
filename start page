@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Пример веб-страницы</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+ </head>
+ <body>
+    <div class="container">
+    <section class="header"> &#10068; <a href="Need help"> Need help </a>&#128222;+3 8099 943 342 12 </section>
+    <div class="row"></div>
+    </div>
+	<hr>
+      <div class="container1"> 
+      <div>&#8801; Menu </div> 
+      <div class="theTime">The time</div>
+      <div class="container1-action">
+        <div class="account">&#128100;</div> 
+        <div class="search">&#128269; </div> 
+        <section class="title"></section>
+      </div>
+    </div>
+
+    <div class="container2">
+    	<div></div>
+
+
+    </div>
+ </body>
+</html>
